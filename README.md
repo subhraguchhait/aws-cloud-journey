@@ -1,4 +1,4 @@
 # aws-cloud-journey
 this is my first git repository
 <br>
-auther-subhraguchhait
+author-subhra guchhait
